@@ -1,5 +1,6 @@
 # range-funtion-using-typescript
-## Just coded a range function in typecript! 
+### Just coded a range function in typescript! 
+### This range funtion works same as in python
 
 
 # Code Glance :
